@@ -8,3 +8,5 @@ A simple interactive website for demonstrating various pathfinding algorithms. T
 - Customizable grid size and obstacle placement
 - Option to adjust algorithm parameters
 - Real-time updates of algorithm progress
+
+  # Currently this project is put on hold and is broken
